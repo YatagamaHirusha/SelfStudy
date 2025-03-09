@@ -1,3 +1,1 @@
-Hello World!
-This line edited by GitHub
-This line is edit to learn branch
+This is test for merge conflict
