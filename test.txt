@@ -1,1 +1,4 @@
+ HEAD
 Testing merge conflict
+This is test for merge conflict
+test-branch
